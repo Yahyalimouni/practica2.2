@@ -1,0 +1,18 @@
+site_name: Practica2 - NGINX
+nav:
+  - Home: https://Yahyalimouni.github.io
+  - Practica2: https://Yahyalimouni.github.io/practica2/
+
+theme:
+  name: material  # Use Material theme for MkDocs
+  features:
+    - navigation.tabs  # Enable tab navigation
+    - navigation.top  # Show navigation at the top
+    - search.highlight  
+    - search.share  
+    - navigation.tracking  
+
+  palette:
+    scheme: slate
+    primary: cyan
+    accent: indigo
