@@ -4,6 +4,7 @@
  En esta practica vamos a tratar la autenticacion de usuario a nuestro servidor web antes de que pueda acceder a ello, y ademas permitir y bloquear ips especificas.
 
 
+
 ## Paquetes necesarios
 
 Primero verificamos que el paquete esta instalado del openSSL, con el comando <br>
